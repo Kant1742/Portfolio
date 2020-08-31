@@ -38,8 +38,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'subov_net.png',
     title: 'Torrent movies',
-    info: 'Torrent website written in Django. Easily populate data using JSON. Get that data you can using YTS API.',
-    info2: 'Features: populate movies via API, collections, merch, cast, random moives on the main page, latest movies.',
+    info: 'Easily populate data using JSON. Get that data you can using YTS API.',
+    info2: 'Features: populate movies via API, collections, merch, cast, random movies on the main page, latest movies.',
     url: 'http://subov.net',
     repo: 'https://github.com/Kant1742/torrent/', // if no repo, the button will not show up
   },
