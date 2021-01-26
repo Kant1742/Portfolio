@@ -226,10 +226,6 @@ $main-color: #02aab0;
 $secondary-color: #00cdac;
 ```
 
-**_Note_**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
-
----
-
 ## Deployment 📦
 
 Once you have done with your setup. You need to put your website online!
